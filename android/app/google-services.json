@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "28570047838",
+    "project_id": "job-hive-3beec",
+    "storage_bucket": "job-hive-3beec.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28570047838:android:5869160584fb39f01cabcf",
+        "android_client_info": {
+          "package_name": "com.example.job_hive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2IGu0FG7XaGLq_-Cl-N-le4wllDN87v4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
